@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SilverVitality - Senior Wellness Companion",
+  "description": "A gentle wellness and recovery application designed specifically for seniors to manage routines, exercise, and nutrition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
